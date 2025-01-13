@@ -11,7 +11,7 @@ EHD is an online meeting project which I made it for the Ege Universty Hospital 
 First of all you will be clone this project with this code:
 
 ```bash
-  git clone https://github.com/HarunBulbull/EHD-Meet.git
+  git clone https://github.com/0bera1/EHD-Meet.git
 ```
 ###
 #### Install packages
